@@ -1,0 +1,77 @@
+{
+  "COGS 1001": {
+    "title": "Introduction to Cognitive Science",
+    "units": 1,
+    "Fulfills": ["COGS_core", "COGS_ACGC_intro"]
+  },
+  "CIS 1400": {
+    "title": "Introduction to Cognitive Science",
+    "units": 1,
+    "Fulfills": ["COGS_core", "COGS_ACGC_intro", "COGS_Computation", "COGS_ACGC"]
+  },
+  "LING 1005": {
+    "title": "Introduction to Cognitive Science",
+    "units": 1,
+    "Fulfills": ["COGS_core", "COGS_ACGC_intro"]
+  },
+  "PHIL 1840": {
+    "title": "Introduction to Cognitive Science",
+    "units": 1,
+    "Fulfills": ["COGS_core", "COGS_ACGC_intro"]
+  },
+  "PSYC 1333": {
+    "title": "Introduction to Cognitive Science",
+    "units": 1,
+    "Fulfills": ["COGS_core", "COGS_ACGC_intro", "COGS_Psychology"]
+  },
+  "CIS 1100": {
+    "title": "Introduction to Computer Programming",
+    "units": 1,
+    "Fulfills": ["COGS_Computation", "COGS_ACGC"]
+  },
+  "CIS 1200": {
+    "title": "Programming Languages and Techniques I",
+    "units": 1,
+    "Fulfills": ["COGS_Computation", "COGS_ACGC"]
+  },
+  "CIS 1210": {
+    "title": "Programming Languages and Techniques II",
+    "units": 1,
+    "Fulfills": ["COGS_Computation", "COGS_ACGC"]
+  },
+  "LING 0001": {
+    "title": "Introduction to Linguistics",
+    "units": 1,
+    "Fulfills": ["COGS_Language", "COGS_ACGC"]
+  },
+  "PHIL 1800": {
+    "title": "Philosophy of Science",
+    "units": 1,
+    "Fulfills": ["COGS_Philosophy", "COGS_ACGC"]
+  },
+  "PHIL 1810": {
+    "title": "Philosophy of Space and Time",
+    "units": 1,
+    "Fulfills": ["COGS_Philosophy", "COGS_ACGC"]
+  },
+  "STAT 1110": {
+    "title": "",
+    "units": 1,
+    "Fulfills": ["COGS_Mathematics"]
+  },
+  "MATH 1400": {
+    "title": "Calculus, Part I",
+    "units": 1,
+    "Fulfills": ["COGS_Mathematics", "COGS_ACGC"]
+  },
+  "MATH 1410": {
+    "title": "Calculus, Part II",
+    "units": 1,
+    "Fulfills": ["COGS_Mathematics", "COGS_ACGC"]
+  },
+  "MATH 1510": {
+    "title": "Calculus, Part II with Probability and Matrices",
+    "units": 1,
+    "Fulfills": ["COGS_Mathematics", "COGS_ACGC"]
+  }
+} 
