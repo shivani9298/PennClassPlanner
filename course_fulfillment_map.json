@@ -1,0 +1,987 @@
+{
+  "COGS 1001": {
+    "title": "Introduction to Cognitive Science",
+    "units": 1,
+    "Fulfills": ["COGS_core", "COGS_ACGC_intro", "CIS_Cognitive_Science_concentration"]
+  },
+  "CIS 1400": {
+    "title": "Introduction to Cognitive Science",
+    "units": 1,
+    "Fulfills": ["COGS_core", "COGS_ACGC_intro", "COGS_Computation", "COGS_ACGC", "CIS_Cognitive_Science_concentration"]
+  },
+  "LING 1005": {
+    "title": "Introduction to Cognitive Science",
+    "units": 1,
+    "Fulfills": ["COGS_core", "COGS_ACGC_intro"]
+  },
+  "PHIL 1840": {
+    "title": "Introduction to Cognitive Science",
+    "units": 1,
+    "Fulfills": ["COGS_core", "COGS_ACGC_intro"]
+  },
+  "PSYC 1333": {
+    "title": "Introduction to Cognitive Science",
+    "units": 1,
+    "Fulfills": ["COGS_core", "COGS_ACGC_intro", "COGS_Psychology"]
+  },
+  "CIS 1100": {
+    "title": "Introduction to Computer Programming",
+    "units": 1,
+    "Fulfills": ["COGS_Computation", "COGS_ACGC", "CIS_core"]
+  },
+  "CIS 1200": {
+    "title": "Programming Languages and Techniques I",
+    "units": 1,
+    "Fulfills": ["COGS_Computation", "COGS_ACGC", "CIS_core"]
+  },
+  "CIS 1210": {
+    "title": "Programming Languages and Techniques II",
+    "units": 1,
+    "Fulfills": ["COGS_Computation", "COGS_ACGC", "CIS_core"]
+  },
+  "CIS 1600": {
+    "title": "Mathematical Foundations of Computer Science",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_core", "CIS_math_foundations"]
+  },
+  "CIS 2400": {
+    "title": "Computer Architecture",
+    "units": 1,
+    "Fulfills": ["CIS_core"]
+  },
+  "CIS 2620": {
+    "title": "Automata, Computability, and Complexity",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_core"]
+  },
+  "CIS 3200": {
+    "title": "Introduction to Algorithms",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_core"]
+  },
+  "CIS 3800": {
+    "title": "Computer Operating Systems",
+    "units": 1,
+    "Fulfills": ["CIS_core"]
+  },
+  "CIS 3410": {
+    "title": "Software Design and Engineering",
+    "units": 1,
+    "Fulfills": ["CIS_core", "CIS_Software_Foundations_concentration"]
+  },
+  "CIS 4710": {
+    "title": "Computer Systems Programming",
+    "units": 1,
+    "Fulfills": ["CIS_core"]
+  },
+  "CIS 2610": {
+    "title": "Discrete Probability, Stochastic Processes, and Statistical Inference",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_math_probability"]
+  },
+  "CIS 4190": {
+    "title": "Applied Machine Learning",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_tech_elective", "CIS_ML_AI_category", "CIS_AI_concentration", "CIS_Data_Science_concentration"]
+  },
+  "CIS 4210": {
+    "title": "Artificial Intelligence",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_tech_elective", "CIS_ML_AI_category", "CIS_AI_concentration", "CIS_Cognitive_Science_concentration"]
+  },
+  "CIS 5200": {
+    "title": "Machine Learning",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_tech_elective", "CIS_ML_AI_category", "CIS_AI_concentration", "CIS_Data_Science_concentration", "CIS_Cognitive_Science_concentration"]
+  },
+  "CIS 5300": {
+    "title": "Natural Language Processing",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_tech_elective", "CIS_ML_AI_category", "CIS_AI_concentration", "CIS_Cognitive_Science_concentration"]
+  },
+  "CIS 4500": {
+    "title": "Database and Information Systems",
+    "units": 1,
+    "Fulfills": ["CIS_tech_elective", "CIS_Databases_category", "CIS_Distributed_Systems_category", "CIS_Project_category", "CIS_Data_Science_concentration"]
+  },
+  "CIS 5450": {
+    "title": "Big Data Analytics",
+    "units": 1,
+    "Fulfills": ["CIS_tech_elective", "CIS_Databases_category", "CIS_Distributed_Systems_category", "CIS_ML_AI_category", "CIS_Data_Science_concentration"]
+  },
+  "NETS 2120": {
+    "title": "Computer Networks",
+    "units": 1,
+    "Fulfills": ["CIS_tech_elective", "CIS_Networking_category", "CIS_Distributed_Systems_category", "CIS_Project_category", "CIS_Systems_concentration"]
+  },
+  "LING 0001": {
+    "title": "Introduction to Linguistics",
+    "units": 1,
+    "Fulfills": ["COGS_Language", "COGS_ACGC", "CIS_humanities", "CIS_Cognitive_Science_concentration"]
+  },
+  "LING 2300": {
+    "title": "Sound Structure of Language",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities", "CIS_Cognitive_Science_concentration"]
+  },
+  "LING 2500": {
+    "title": "Introduction to Syntax",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities", "CIS_Cognitive_Science_concentration"]
+  },
+  "LING 2700": {
+    "title": "Language Acquisition",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities", "CIS_Cognitive_Science_concentration"]
+  },
+  "PHIL 1800": {
+    "title": "Philosophy of Science",
+    "units": 1,
+    "Fulfills": ["COGS_Philosophy", "COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 1810": {
+    "title": "Philosophy of Space and Time",
+    "units": 1,
+    "Fulfills": ["COGS_Philosophy", "COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 1710": {
+    "title": "Introduction to Logic",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities", "CIS_Cognitive_Science_concentration"]
+  },
+  "PHIL 2640": {
+    "title": "Introduction to Philosophy of Mind",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities", "CIS_Cognitive_Science_concentration"]
+  },
+  "PSYC 1210": {
+    "title": "Introduction to Brain and Behavior",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities", "CIS_Cognitive_Science_concentration"]
+  },
+  "PSYC 1230": {
+    "title": "Cognitive Neuroscience",
+    "units": 1,
+    "Fulfills": ["COGS_Psychology", "COGS_ACGC", "CIS_humanities", "CIS_Cognitive_Science_concentration"]
+  },
+  "PSYC 1340": {
+    "title": "Perception",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities", "CIS_Cognitive_Science_concentration"]
+  },
+  "PSYC 1310": {
+    "title": "Language and Thought",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities", "CIS_Cognitive_Science_concentration"]
+  },
+  "PSYC 2737": {
+    "title": "Judgment and Decisions",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities", "CIS_Cognitive_Science_concentration"]
+  },
+  "PSYC 2377": {
+    "title": "Cognitive Development",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities", "CIS_Cognitive_Science_concentration"]
+  },
+  "MATH 1400": {
+    "title": "Calculus, Part I",
+    "units": 1,
+    "Fulfills": ["COGS_Mathematics", "COGS_ACGC", "CIS_math_calculus"]
+  },
+  "MATH 1410": {
+    "title": "Calculus, Part II",
+    "units": 1,
+    "Fulfills": ["COGS_Mathematics", "COGS_ACGC", "CIS_math_calculus"]
+  },
+  "MATH 1510": {
+    "title": "Calculus, Part II with Probability and Matrices",
+    "units": 1,
+    "Fulfills": ["COGS_Mathematics", "COGS_ACGC", "CIS_math_calculus"]
+  },
+  "MATH 2400": {
+    "title": "Calculus, Part III",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_math_linear_algebra"]
+  },
+  "STAT 4300": {
+    "title": "Probability",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_math_probability"]
+  },
+  "STAT 4710": {
+    "title": "Modern Data Mining",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_tech_elective", "CIS_ML_AI_category", "CIS_Data_Science_concentration"]
+  },
+  "BIOL 1110": {
+    "title": "Introduction to Brain and Behavior",
+    "units": 1,
+    "Fulfills": ["COGS_Neuroscience", "COGS_ACGC"]
+  },
+  "NRSC 2249": {
+    "title": "Cognitive Neuroscience",
+    "units": 1,
+    "Fulfills": ["COGS_Neuroscience", "COGS_ACGC"]
+  },
+  "BCHE 2280": {
+    "title": "Physical Models of Biological Systems",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "BE 5300": {
+    "title": "Theoretical and Computational Neuroscience",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "BIOL 2140": {
+    "title": "Evolution of Behavior: Animal Behavior",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "BIOL 4110": {
+    "title": "Neural Systems and Behavior",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "BIOL 4142": {
+    "title": "Neurobiology of Learning and Memory",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "BIOL 4536": {
+    "title": "Introduction to Computational Biology & Biological Modeling",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "BIOL 5110": {
+    "title": "Neural Systems and Behavior",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "CIS 3333": {
+    "title": "Mathematics of Machine Learning",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_tech_elective", "CIS_ML_AI_category"]
+  },
+  "CIS 3340": {
+    "title": "Advanced Topics in Algorithms",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_tech_elective"]
+  },
+  "CIS 3900": {
+    "title": "Robotics: Planning Perception",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_tech_elective", "CIS_Project_category"]
+  },
+  "CIS 4300": {
+    "title": "Natural Language Processing",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_tech_elective", "CIS_ML_AI_category"]
+  },
+  "CIS 4360": {
+    "title": "Introduction to Computational Biology & Biological Modeling",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_tech_elective", "CIS_Computational_Biology_concentration"]
+  },
+  "CIS 5110": {
+    "title": "Theory of Computation",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_tech_elective"]
+  },
+  "CIS 5180": {
+    "title": "Topics in Logic: Finite Model Theory and Descriptive Complexity",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_tech_elective"]
+  },
+  "CIS 6250": {
+    "title": "Theory of Machine Learning",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_tech_elective", "CIS_ML_AI_category"]
+  },
+  "COGS 2982": {
+    "title": "Study Abroad",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "COGS 3998": {
+    "title": "Senior Thesis",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "COGS 3999": {
+    "title": "Independent Study",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "COGS 4290": {
+    "title": "Big Data, Memory and the Human Brain",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "ECON 0120": {
+    "title": "Strategic Reasoning",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "ECON 4100": {
+    "title": "Game Theory",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "ECON 4120": {
+    "title": "Social Choice Theory",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "ECON 4140": {
+    "title": "Decision Making Under Uncertainty",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "ECON 4160": {
+    "title": "Behavioral Economics",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LGIC 1710": {
+    "title": "Introduction to Logic",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LGIC 3200": {
+    "title": "Logic and Computability 2",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LGIC 4960": {
+    "title": "Topics in Mathematical Logic",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 0750": {
+    "title": "Language and Thought",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 1500": {
+    "title": "The Keys to Language Structure (and How to Use Them)",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 1700": {
+    "title": "Experimental Approaches to the Study of Language",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 1750": {
+    "title": "Psychology of Language",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 2100": {
+    "title": "Introduction to Language Change",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 2210": {
+    "title": "Phonetics I: Experimental",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 2220": {
+    "title": "Phonetics II: Data Science",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 2250": {
+    "title": "Computer Analysis and Modeling of Biological Signals and Systems",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 3410": {
+    "title": "Morphology I",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 3740": {
+    "title": "Neurolinguistics",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 3750": {
+    "title": "Psycholinguistics Seminar",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 3810": {
+    "title": "Semantics I",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 3850": {
+    "title": "Experiments in the Study of Meaning",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 5150": {
+    "title": "Dynamics of Language",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 5210": {
+    "title": "Phonetics I: Experimental",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 5220": {
+    "title": "Phonetics II: Data Science",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 5250": {
+    "title": "Computer Analysis and Modeling of Biological Signals and Systems",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 5310": {
+    "title": "Phonology I",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 5320": {
+    "title": "Phonology II",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 5450": {
+    "title": "Mental Lexicon",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 5510": {
+    "title": "Syntax I",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 5520": {
+    "title": "Syntax II",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 5700": {
+    "title": "Developmental Psycholinguistics",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 5810": {
+    "title": "Semantics I",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "LING 5820": {
+    "title": "Semantics II",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "MATH 1610": {
+    "title": "Honors Calculus",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_math_calculus"]
+  },
+  "MATH 2600": {
+    "title": "Honors Calculus, Part II",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_math_linear_algebra"]
+  },
+  "MATH 4320": {
+    "title": "Game Theory",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "MATH 5710": {
+    "title": "Logic and Computability 2",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "MATH 6770": {
+    "title": "Topics in Logic",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "NETS 3120": {
+    "title": "Theory of Networks",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_tech_elective", "CIS_Networking_category"]
+  },
+  "NETS 4120": {
+    "title": "Algorithmic Game Theory",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_tech_elective", "CIS_Networking_category"]
+  },
+  "NGG 5940": {
+    "title": "Theoretical and Computational Neuroscience",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "NRSC 1110": {
+    "title": "Introduction to Brain and Behavior",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "NRSC 1159": {
+    "title": "Memory",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "NRSC 2140": {
+    "title": "Evolution of Behavior: Animal Behavior",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "NRSC 2205": {
+    "title": "Cellular Basis of Learning and Memory",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "NRSC 2217": {
+    "title": "Visual Neuroscience",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "NRSC 2233": {
+    "title": "Neuroethology",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "NRSC 2273": {
+    "title": "Neuroeconomics",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "NRSC 3310": {
+    "title": "Functional Neuroanatomy",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "NRSC 3334": {
+    "title": "Computational Neuroscience Lab",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "NRSC 4110": {
+    "title": "Neural Systems and Behavior",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "NRSC 4430": {
+    "title": "The Cognitive Neuroscience of Autism",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "NRSC 4442": {
+    "title": "Neurobiology of Learning and Memory",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "NRSC 4473": {
+    "title": "Neuroeconomics Seminar",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "NRSC 5585": {
+    "title": "Theoretical and Computational Neuroscience",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "OIDD 2900": {
+    "title": "Decision Processes",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 1170": {
+    "title": "History of Modern Philosophy",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 1830": {
+    "title": "Philosophy of Biology",
+    "units": 1,
+    "Fulfills": ["COGS_Philosophy", "COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 2620": {
+    "title": "Introduction to Epistemology and Metaphysics",
+    "units": 1,
+    "Fulfills": ["COGS_Philosophy", "COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 2660": {
+    "title": "What is Meaning?",
+    "units": 1,
+    "Fulfills": ["COGS_Philosophy", "COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 2680": {
+    "title": "Introduction to Metaphysics",
+    "units": 1,
+    "Fulfills": ["COGS_Philosophy", "COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 3200": {
+    "title": "Twentieth Century Philosophy",
+    "units": 1,
+    "Fulfills": ["COGS_Philosophy", "COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 3620": {
+    "title": "Topics in Epistemology",
+    "units": 1,
+    "Fulfills": ["COGS_Philosophy", "COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 3623": {
+    "title": "Philosophy of Perception",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 4600": {
+    "title": "Origins of Analytic Philosophy",
+    "units": 1,
+    "Fulfills": ["COGS_Philosophy", "COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 4620": {
+    "title": "Theory of Knowledge",
+    "units": 1,
+    "Fulfills": ["COGS_Philosophy", "COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 4640": {
+    "title": "Philosophy of Mind",
+    "units": 1,
+    "Fulfills": ["COGS_Philosophy", "COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 4660": {
+    "title": "Philosophy of Language",
+    "units": 1,
+    "Fulfills": ["COGS_Philosophy", "COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 4720": {
+    "title": "Topics in Mathematical Logic",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 4722": {
+    "title": "Logic and Computability 2",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 4723": {
+    "title": "Introduction to Mathematical Logic",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 4770": {
+    "title": "Philosophy of Mathematics",
+    "units": 1,
+    "Fulfills": ["COGS_Philosophy", "COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 4800": {
+    "title": "Philosophy of Science",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 4840": {
+    "title": "Philosophy of Psychology",
+    "units": 1,
+    "Fulfills": ["COGS_Philosophy", "COGS_ACGC", "CIS_humanities", "CIS_Cognitive_Science_concentration"]
+  },
+  "PHIL 4843": {
+    "title": "Philosophy and Visual Perception",
+    "units": 1,
+    "Fulfills": ["COGS_Philosophy", "COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 5840": {
+    "title": "Philosophy of Psychology",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 6720": {
+    "title": "Topics in Logic",
+    "units": 1,
+    "Fulfills": ["COGS_Philosophy", "COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 6722": {
+    "title": "Logic and Computability 2",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PHIL 6770": {
+    "title": "Philosophy of Mathematics",
+    "units": 1,
+    "Fulfills": ["COGS_Philosophy", "COGS_ACGC", "CIS_humanities"]
+  },
+  "PHYS 2280": {
+    "title": "Physical Models of Biological Systems",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "PHYS 5585": {
+    "title": "Theoretical and Computational Neuroscience",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "PPE 3001": {
+    "title": "Strategic Reasoning",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PPE 3003": {
+    "title": "Behavioral Economics and Psychology",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PPE 3004": {
+    "title": "Choice",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PPE 4803": {
+    "title": "Advanced Seminar in Psychology: Modeling Choice Behavior",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PSYC 0001": {
+    "title": "Introduction to Experimental Psychology",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PSYC 2220": {
+    "title": "Evolution of Behavior: Animal Behavior",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PSYC 2233": {
+    "title": "Neuroethology",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PSYC 2240": {
+    "title": "Visual Neuroscience",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PSYC 2310": {
+    "title": "Psychology of Language",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PSYC 2555": {
+    "title": "Neuroeconomics",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PSYC 3220": {
+    "title": "Neural Systems and Behavior",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PSYC 3231": {
+    "title": "Consciousness Seminar in Cognitive Neuroscience",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PSYC 3271": {
+    "title": "Seminar: Thought without Language",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PSYC 3301": {
+    "title": "Neurobiology of Learning and Memory",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PSYC 3310": {
+    "title": "Psycholinguistics Seminar",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PSYC 3350": {
+    "title": "Quantitative Methods in Cognitive Science: Data Analysis, Modeling, and Visualization",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PSYC 3790": {
+    "title": "Neuroeconomics Seminar",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PSYC 3803": {
+    "title": "Advanced Seminar in Psychology: Modeling Choice Behavior",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PSYC 4230": {
+    "title": "Introduction to functional magnetic resonance imaging (fMRI) research",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PSYC 4281": {
+    "title": "Computational Neuroscience Lab",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PSYC 4310": {
+    "title": "Research Experience in Cognitive Psychology",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PSYC 4340": {
+    "title": "Research Experience in Perception",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PSYC 5390": {
+    "title": "Theoretical and Computational Neuroscience",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "STAT 4330": {
+    "title": "Stochastic Processes",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "STAT 4420": {
+    "title": "Introduction to Bayesian Data Analysis",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC"]
+  },
+  "VLST 2110": {
+    "title": "Perception",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "VLST 2120": {
+    "title": "Research Experience in Perception",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "VLST 2170": {
+    "title": "Visual Neuroscience",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "VLST 2210": {
+    "title": "Introduction to Philosophy of Mind",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "VLST 2220": {
+    "title": "Philosophy of Perception",
+    "units": 1,
+    "Fulfills": ["COGS_ACGC", "CIS_humanities"]
+  },
+  "PHYS 0150": {
+    "title": "Physics I: Mechanics and Wave Motion",
+    "units": 1,
+    "Fulfills": ["CIS_physics_mechanics"]
+  },
+  "PHYS 0151": {
+    "title": "Physics II: Electromagnetism and Radiation",
+    "units": 1,
+    "Fulfills": ["CIS_physics_em"]
+  },
+  "PHYS 0170": {
+    "title": "Honors Physics I: Mechanics and Wave Motion",
+    "units": 1,
+    "Fulfills": ["CIS_physics_mechanics"]
+  },
+  "PHYS 0171": {
+    "title": "Honors Physics II: Electromagnetism and Radiation",
+    "units": 1,
+    "Fulfills": ["CIS_physics_em"]
+  },
+  "MEAM 1100": {
+    "title": "Introduction to Mechanical Design",
+    "units": 0.5,
+    "Fulfills": ["CIS_lab"]
+  },
+  "MEAM 1470": {
+    "title": "Introduction to Mechanics",
+    "units": 0.5,
+    "Fulfills": ["CIS_lab"]
+  },
+  "PHYS 0500": {
+    "title": "Physics Laboratory",
+    "units": 0.5,
+    "Fulfills": ["CIS_lab"]
+  },
+  "STAT 1110": {
+    "title": "Introductory Statistics",
+    "units": 1,
+    "Fulfills": ["STAT_minor_core"]
+  },
+  "STAT 4310": {
+    "title": "Mathematical Statistics",
+    "units": 1,
+    "Fulfills": ["STAT_minor_core"]
+  },
+  "STAT 4420": {
+    "title": "Introduction to Bayesian Data Analysis",
+    "units": 1,
+    "Fulfills": ["STAT_minor_electives"]
+  },
+  "STAT 4710": {
+    "title": "Statistical Methods in Data Science",
+    "units": 1,
+    "Fulfills": ["STAT_minor_electives", "CIS_Data_Science_concentration"]
+  },
+  "STAT 5200": {
+    "title": "Advanced Statistical Inference",
+    "units": 1,
+    "Fulfills": ["STAT_minor_electives"]
+  },
+  "CIS 4000": {
+    "title": "Senior Design Project I",
+    "units": 1,
+    "Fulfills": ["CIS_senior_design"]
+  },
+  "CIS 4010": {
+    "title": "Senior Design Project II",
+    "units": 1,
+    "Fulfills": ["CIS_senior_design"]
+  },
+  "CIS 4110": {
+    "title": "Senior Design Project III",
+    "units": 1,
+    "Fulfills": ["CIS_senior_design"]
+  },
+  "ESE 3010": {
+    "title": "Engineering Probability",
+    "units": 1,
+    "Fulfills": ["CIS_math_probability"]
+  },
+  "ESE 2100": {
+    "title": "Linear Systems Theory",
+    "units": 1,
+    "Fulfills": ["CIS_math_linear_algebra"]
+  },
+  "ESE 1120": {
+    "title": "Electrical Circuits and Systems",
+    "units": 1,
+    "Fulfills": ["CIS_physics_em"]
+  },
+  "CHEM 1011": {
+    "title": "General Chemistry I",
+    "units": 1,
+    "Fulfills": ["CIS_natural_science"]
+  },
+  "CHEM 1012": {
+    "title": "General Chemistry II",
+    "units": 1,
+    "Fulfills": ["CIS_natural_science"]
+  },
+  "BIOL 1101": {
+    "title": "Introduction to Biology A",
+    "units": 1,
+    "Fulfills": ["CIS_natural_science"]
+  },
+  "BIOL 1102": {
+    "title": "Introduction to Biology B",
+    "units": 1,
+    "Fulfills": ["CIS_natural_science"]
+  }
+} 
