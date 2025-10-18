@@ -155,4 +155,4 @@ V = courses (500), E = prerequisites (1000+), S = semesters (8), C = courses per
 - Export schedule to PDF/calendar
 - Fix failing edge cases (the senior design, the variety in course works)
 
-## previous verision of this project was in python, but that logic has been improved and impelemented in an react js a
+## previous verision of this project was in python, but that logic has been improved and implemented in an react js app
