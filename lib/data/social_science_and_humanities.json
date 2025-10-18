@@ -1,0 +1,206 @@
+{
+  "Social_Sciences": {
+    "included_departments": {
+      "general": [
+        "ASAM",
+        "COMM",
+        "CRIM",
+        "ECON",
+        "GSWS",
+        "HSOC",
+        "INTR",
+        "LING",
+        "PPE",
+        "PSCI",
+        "PSYC",
+        "SOCI",
+        "STSC",
+        "URBS"
+      ],
+      "exceptions": {
+        "ASAM": [
+          "except where cross-listed with AMES, ENGL, FNAR, HIST, or SARS"
+        ],
+        "ECON": [
+          "except ECON 2300 and ECON 2310"
+        ],
+        "LING": [
+          "except language courses, LING 0700 (free elective)"
+        ],
+        "PSYC": [
+          "except statistics, probability, math, and natural sciences"
+        ],
+        "SOCI": [
+          "except statistics, probability, and math"
+        ]
+      }
+    },
+    "individual_courses": {
+      "ANTH": [
+        "0330"
+      ],
+      "BEPP": [
+        "1000",
+        "2010",
+        "2020",
+        "2030",
+        "2080",
+        "2110",
+        "2140",
+        "2200",
+        "2300",
+        "2330",
+        "2500",
+        "2610",
+        "2630",
+        "2650",
+        "2800",
+        "2840",
+        "2890",
+        "3050"
+      ],
+      "LGST": [
+        "2120"
+      ],
+      "EAS": [
+        "2030",
+        "303"
+      ],
+      "EESC": [
+        "1060",
+        "2300",
+        "3003"
+      ],
+      "ENVS": [
+        "4250"
+      ],
+      "FNCE": [
+        "1010",
+        "103"
+      ],
+      "LGST_extra": [
+        "1000",
+        "1010",
+        "210",
+        "2150",
+        "2200"
+      ],
+      "NRSC": [
+        "1159",
+        "2227",
+        "2249",
+        "4417"
+      ],
+      "NURS": [
+        "098",
+        "3130",
+        "3150",
+        "3160",
+        "317",
+        "3300",
+        "331",
+        "333",
+        "5250"
+      ],
+      "OIDD": [
+        "2900"
+      ]
+    }
+  },
+  "Humanities": {
+    "included_departments": {
+      "general": [
+        "Foreign Languages",
+        "ANTH",
+        "ANCH",
+        "ARTH",
+        "ASAM",
+        "ASLD",
+        "BIOE",
+        "CLST",
+        "COML",
+        "DSGN",
+        "EALC",
+        "ENGL",
+        "FNAR",
+        "FOLK",
+        "HIST",
+        "HSSC",
+        "JWST",
+        "LALS",
+        "MUSC",
+        "MELC",
+        "PHIL",
+        "RELS",
+        "SARS",
+        "SAST",
+        "THAR",
+        "VLST"
+      ],
+      "exceptions": {
+        "ASAM": [
+          "cross-listed with AMES, ENGL, FNAR, HIST, and SARS only \u2013 1520"
+        ],
+        "DSGN": [
+          "0010",
+          "233",
+          "1020",
+          "1030",
+          "2010",
+          "1040",
+          "2030",
+          "2040",
+          "5001",
+          "266",
+          "2510",
+          "1050"
+        ],
+        "PHIL": [
+          "except 5710, 4723, and all other logic courses"
+        ],
+        "VLST": [
+          "except 209"
+        ]
+      }
+    },
+    "individual_courses": {
+      "AFRC": [
+        "2321"
+      ],
+      "ARCH": [
+        "1010",
+        "2010",
+        "2020",
+        "3010",
+        "3020",
+        "4010",
+        "402",
+        "403",
+        "4110",
+        "4120"
+      ],
+      "CIMS": [
+        "1002"
+      ],
+      "CIS": [
+        "1060"
+      ],
+      "IPD": [
+        "5090"
+      ]
+    }
+  },
+  "Cross_Listed_Programs": {
+    "programs": [
+      "AFST",
+      "AFRC",
+      "AAMW",
+      "CIMS",
+      "GSWS"
+    ],
+    "note": "Courses must use SS or H designation from cross-listed department. Unlisted courses require petition."
+  },
+  "Writing_Seminar": {
+    "note": "WRIT courses count as SS or H according to this list."
+  }
+}

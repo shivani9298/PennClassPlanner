@@ -1,0 +1,3983 @@
+{
+  "COGS 1001": {
+    "title": "Introduction to Cognitive Science",
+    "units": 1,
+    "Fulfills": [
+      "COGS_core",
+      "COGS_ACGC_intro",
+      "CIS_Cognitive_Science_concentration",
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 1400": {
+    "title": "Introduction to Cognitive Science",
+    "units": 1,
+    "Fulfills": [
+      "COGS_core",
+      "COGS_ACGC_intro",
+      "COGS_Computation",
+      "COGS_ACGC",
+      "CIS_Cognitive_Science_concentration",
+      "CIS_tech_elective"
+    ]
+  },
+  "LING 1005": {
+    "title": "Introduction to Cognitive Science",
+    "units": 1,
+    "Fulfills": [
+      "COGS_core",
+      "COGS_ACGC_intro",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PHIL 1840": {
+    "title": "Introduction to Cognitive Science",
+    "units": 1,
+    "Fulfills": [
+      "COGS_core",
+      "COGS_ACGC_intro",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PSYC 1333": {
+    "title": "Introduction to Cognitive Science",
+    "units": 1,
+    "Fulfills": [
+      "COGS_core",
+      "COGS_ACGC_intro",
+      "COGS_Psychology",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "CIS 1100": {
+    "title": "Introduction to Computer Programming",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Computation",
+      "COGS_ACGC",
+      "CIS_core"
+    ]
+  },
+  "CIS 1200": {
+    "title": "Programming Languages and Techniques I",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Computation",
+      "COGS_ACGC",
+      "CIS_core"
+    ]
+  },
+  "CIS 1210": {
+    "title": "Programming Languages and Techniques II",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Computation",
+      "COGS_ACGC",
+      "CIS_core"
+    ]
+  },
+  "CIS 1600": {
+    "title": "Mathematical Foundations of Computer Science",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_core",
+      "CIS_math_foundations"
+    ]
+  },
+  "CIS 2400": {
+    "title": "Computer Architecture",
+    "units": 1,
+    "Fulfills": [
+      "CIS_core"
+    ]
+  },
+  "CIS 2620": {
+    "title": "Automata, Computability, and Complexity",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_core"
+    ]
+  },
+  "CIS 3200": {
+    "title": "Introduction to Algorithms",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_core"
+    ]
+  },
+  "CIS 3800": {
+    "title": "Computer Operating Systems",
+    "units": 1,
+    "Fulfills": [
+      "CIS_core"
+    ]
+  },
+  "CIS 3410": {
+    "title": "Software Design and Engineering",
+    "units": 1,
+    "Fulfills": [
+      "CIS_core",
+      "CIS_Software_Foundations_concentration",
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 4710": {
+    "title": "Computer Systems Programming",
+    "units": 1,
+    "Fulfills": [
+      "CIS_core"
+    ]
+  },
+  "CIS 2610": {
+    "title": "Discrete Probability, Stochastic Processes, and Statistical Inference",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_math_probability"
+    ]
+  },
+  "CIS 4190": {
+    "title": "Applied Machine Learning",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_tech_elective",
+      "CIS_ML_AI_category",
+      "CIS_AI_concentration",
+      "CIS_Data_Science_concentration"
+    ]
+  },
+  "CIS 4210": {
+    "title": "Artificial Intelligence",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_tech_elective",
+      "CIS_ML_AI_category",
+      "CIS_AI_concentration",
+      "CIS_Cognitive_Science_concentration"
+    ]
+  },
+  "CIS 5200": {
+    "title": "Machine Learning",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_tech_elective",
+      "CIS_ML_AI_category",
+      "CIS_AI_concentration",
+      "CIS_Data_Science_concentration",
+      "CIS_Cognitive_Science_concentration"
+    ]
+  },
+  "CIS 5300": {
+    "title": "Natural Language Processing",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_tech_elective",
+      "CIS_ML_AI_category",
+      "CIS_AI_concentration",
+      "CIS_Cognitive_Science_concentration"
+    ]
+  },
+  "CIS 4500": {
+    "title": "Database and Information Systems",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective",
+      "CIS_Databases_category",
+      "CIS_Distributed_Systems_category",
+      "CIS_Project_category",
+      "CIS_Data_Science_concentration"
+    ]
+  },
+  "CIS 5450": {
+    "title": "Big Data Analytics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective",
+      "CIS_Databases_category",
+      "CIS_Distributed_Systems_category",
+      "CIS_ML_AI_category",
+      "CIS_Data_Science_concentration"
+    ]
+  },
+  "NETS 2120": {
+    "title": "Computer Networks",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective",
+      "CIS_Networking_category",
+      "CIS_Distributed_Systems_category",
+      "CIS_Project_category",
+      "CIS_Systems_concentration"
+    ]
+  },
+  "LING 0001": {
+    "title": "Introduction to Linguistics",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Language",
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_Cognitive_Science_concentration",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 2300": {
+    "title": "Sound Structure of Language",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_Cognitive_Science_concentration",
+      "CIS_ssh",
+      "CIS_social_science",
+      "CIS_tech_elective"
+    ]
+  },
+  "LING 2500": {
+    "title": "Introduction to Syntax",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_Cognitive_Science_concentration",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 2700": {
+    "title": "Language Acquisition",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_Cognitive_Science_concentration",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PHIL 1800": {
+    "title": "Philosophy of Science",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Philosophy",
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 1810": {
+    "title": "Philosophy of Space and Time",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Philosophy",
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 1710": {
+    "title": "Introduction to Logic",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_Cognitive_Science_concentration",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 2640": {
+    "title": "Introduction to Philosophy of Mind",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_Cognitive_Science_concentration",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PSYC 1210": {
+    "title": "Introduction to Brain and Behavior",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_Cognitive_Science_concentration",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 1230": {
+    "title": "Cognitive Neuroscience",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Psychology",
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_Cognitive_Science_concentration",
+      "CIS_ssh",
+      "CIS_social_science",
+      "CIS_tech_elective"
+    ]
+  },
+  "PSYC 1340": {
+    "title": "Perception",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_Cognitive_Science_concentration",
+      "CIS_ssh",
+      "CIS_social_science",
+      "CIS_tech_elective"
+    ]
+  },
+  "PSYC 1310": {
+    "title": "Language and Thought",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_Cognitive_Science_concentration",
+      "CIS_ssh",
+      "CIS_social_science",
+      "CIS_tech_elective"
+    ]
+  },
+  "PSYC 2737": {
+    "title": "Judgment and Decisions",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_Cognitive_Science_concentration",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 2377": {
+    "title": "Cognitive Development",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_Cognitive_Science_concentration",
+      "CIS_ssh",
+      "CIS_social_science",
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 1400": {
+    "title": "Calculus, Part I",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Mathematics",
+      "COGS_ACGC",
+      "CIS_math_calculus"
+    ]
+  },
+  "MATH 1410": {
+    "title": "Calculus, Part II",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Mathematics",
+      "COGS_ACGC",
+      "CIS_math_calculus"
+    ]
+  },
+  "MATH 1510": {
+    "title": "Calculus, Part II with Probability and Matrices",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Mathematics",
+      "COGS_ACGC",
+      "CIS_math_calculus"
+    ]
+  },
+  "MATH 2400": {
+    "title": "Calculus, Part III",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_math_linear_algebra",
+      "CIS_tech_elective"
+    ]
+  },
+  "STAT 4300": {
+    "title": "Probability",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_math_probability"
+    ]
+  },
+  "STAT 4710": {
+    "title": "Statistical Methods in Data Science",
+    "units": 1,
+    "Fulfills": [
+      "STAT_minor_electives",
+      "CIS_Data_Science_concentration",
+      "CIS_tech_elective"
+    ]
+  },
+  "BIOL 1110": {
+    "title": "Introduction to Brain and Behavior",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Neuroscience",
+      "COGS_ACGC"
+    ]
+  },
+  "NRSC 2249": {
+    "title": "Cognitive Neuroscience",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Neuroscience",
+      "COGS_ACGC",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "BCHE 2280": {
+    "title": "Physical Models of Biological Systems",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "BE 5300": {
+    "title": "Theoretical and Computational Neuroscience",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_tech_elective"
+    ]
+  },
+  "BIOL 2140": {
+    "title": "Evolution of Behavior: Animal Behavior",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "BIOL 4110": {
+    "title": "Neural Systems and Behavior",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "BIOL 4142": {
+    "title": "Neurobiology of Learning and Memory",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "BIOL 4536": {
+    "title": "Introduction to Computational Biology & Biological Modeling",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_tech_elective"
+    ]
+  },
+  "BIOL 5110": {
+    "title": "Neural Systems and Behavior",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "CIS 3333": {
+    "title": "Mathematics of Machine Learning",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_tech_elective",
+      "CIS_ML_AI_category"
+    ]
+  },
+  "CIS 3340": {
+    "title": "Advanced Topics in Algorithms",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 3900": {
+    "title": "Robotics: Planning Perception",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_tech_elective",
+      "CIS_Project_category"
+    ]
+  },
+  "CIS 4300": {
+    "title": "Natural Language Processing",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_tech_elective",
+      "CIS_ML_AI_category"
+    ]
+  },
+  "CIS 4360": {
+    "title": "Introduction to Computational Biology & Biological Modeling",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_tech_elective",
+      "CIS_Computational_Biology_concentration"
+    ]
+  },
+  "CIS 5110": {
+    "title": "Theory of Computation",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5180": {
+    "title": "Topics in Logic: Finite Model Theory and Descriptive Complexity",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 6250": {
+    "title": "Theory of Machine Learning",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_tech_elective",
+      "CIS_ML_AI_category"
+    ]
+  },
+  "COGS 2982": {
+    "title": "Study Abroad",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "COGS 3998": {
+    "title": "Senior Thesis",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "COGS 3999": {
+    "title": "Independent Study",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_tech_elective"
+    ]
+  },
+  "COGS 4290": {
+    "title": "Big Data, Memory and the Human Brain",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "ECON 0120": {
+    "title": "Strategic Reasoning",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "ECON 4100": {
+    "title": "Game Theory",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science",
+      "CIS_tech_elective"
+    ]
+  },
+  "ECON 4120": {
+    "title": "Social Choice Theory",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "ECON 4140": {
+    "title": "Decision Making Under Uncertainty",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "ECON 4160": {
+    "title": "Behavioral Economics",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LGIC 1710": {
+    "title": "Introduction to Logic",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities"
+    ]
+  },
+  "LGIC 3200": {
+    "title": "Logic and Computability 2",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities"
+    ]
+  },
+  "LGIC 4960": {
+    "title": "Topics in Mathematical Logic",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities"
+    ]
+  },
+  "LING 0750": {
+    "title": "Language and Thought",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 1500": {
+    "title": "The Keys to Language Structure (and How to Use Them)",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 1700": {
+    "title": "Experimental Approaches to the Study of Language",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 1750": {
+    "title": "Psychology of Language",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 2100": {
+    "title": "Introduction to Language Change",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 2210": {
+    "title": "Phonetics I: Experimental",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 2220": {
+    "title": "Phonetics II: Data Science",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 2250": {
+    "title": "Computer Analysis and Modeling of Biological Signals and Systems",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 3410": {
+    "title": "Morphology I",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 3740": {
+    "title": "Neurolinguistics",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 3750": {
+    "title": "Psycholinguistics Seminar",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 3810": {
+    "title": "Semantics I",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science",
+      "CIS_tech_elective"
+    ]
+  },
+  "LING 3850": {
+    "title": "Experiments in the Study of Meaning",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 5150": {
+    "title": "Dynamics of Language",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science",
+      "CIS_tech_elective"
+    ]
+  },
+  "LING 5210": {
+    "title": "Phonetics I: Experimental",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 5220": {
+    "title": "Phonetics II: Data Science",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 5250": {
+    "title": "Computer Analysis and Modeling of Biological Signals and Systems",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science",
+      "CIS_tech_elective"
+    ]
+  },
+  "LING 5310": {
+    "title": "Phonology I",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 5320": {
+    "title": "Phonology II",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 5450": {
+    "title": "Mental Lexicon",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 5510": {
+    "title": "Syntax I",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 5520": {
+    "title": "Syntax II",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 5700": {
+    "title": "Developmental Psycholinguistics",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 5810": {
+    "title": "Semantics I",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "LING 5820": {
+    "title": "Semantics II",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "MATH 1610": {
+    "title": "Honors Calculus",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_math_calculus"
+    ]
+  },
+  "MATH 2600": {
+    "title": "Honors Calculus, Part II",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_math_linear_algebra"
+    ]
+  },
+  "MATH 4320": {
+    "title": "Game Theory",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 5710": {
+    "title": "Logic and Computability 2",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities"
+    ]
+  },
+  "MATH 6770": {
+    "title": "Topics in Logic",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities"
+    ]
+  },
+  "NETS 3120": {
+    "title": "Theory of Networks",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_tech_elective",
+      "CIS_Networking_category"
+    ]
+  },
+  "NETS 4120": {
+    "title": "Algorithmic Game Theory",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_tech_elective",
+      "CIS_Networking_category"
+    ]
+  },
+  "NGG 5940": {
+    "title": "Theoretical and Computational Neuroscience",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "NRSC 1110": {
+    "title": "Introduction to Brain and Behavior",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "NRSC 1159": {
+    "title": "Memory",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "NRSC 2140": {
+    "title": "Evolution of Behavior: Animal Behavior",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "NRSC 2205": {
+    "title": "Cellular Basis of Learning and Memory",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "NRSC 2217": {
+    "title": "Visual Neuroscience",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "NRSC 2233": {
+    "title": "Neuroethology",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "NRSC 2273": {
+    "title": "Neuroeconomics",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "NRSC 3310": {
+    "title": "Functional Neuroanatomy",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "NRSC 3334": {
+    "title": "Computational Neuroscience Lab",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "NRSC 4110": {
+    "title": "Neural Systems and Behavior",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "NRSC 4430": {
+    "title": "The Cognitive Neuroscience of Autism",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "NRSC 4442": {
+    "title": "Neurobiology of Learning and Memory",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "NRSC 4473": {
+    "title": "Neuroeconomics Seminar",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "NRSC 5585": {
+    "title": "Theoretical and Computational Neuroscience",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "OIDD 2900": {
+    "title": "Decision Processes",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PHIL 1170": {
+    "title": "History of Modern Philosophy",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 1830": {
+    "title": "Philosophy of Biology",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Philosophy",
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 2620": {
+    "title": "Introduction to Epistemology and Metaphysics",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Philosophy",
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 2660": {
+    "title": "What is Meaning?",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Philosophy",
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 2680": {
+    "title": "Introduction to Metaphysics",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Philosophy",
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 3200": {
+    "title": "Twentieth Century Philosophy",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Philosophy",
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 3620": {
+    "title": "Topics in Epistemology",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Philosophy",
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 3623": {
+    "title": "Philosophy of Perception",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 4600": {
+    "title": "Origins of Analytic Philosophy",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Philosophy",
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 4620": {
+    "title": "Theory of Knowledge",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Philosophy",
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 4640": {
+    "title": "Philosophy of Mind",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Philosophy",
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 4660": {
+    "title": "Philosophy of Language",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Philosophy",
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 4720": {
+    "title": "Topics in Mathematical Logic",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities",
+      "CIS_tech_elective"
+    ]
+  },
+  "PHIL 4722": {
+    "title": "Logic and Computability 2",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities",
+      "CIS_tech_elective"
+    ]
+  },
+  "PHIL 4723": {
+    "title": "Introduction to Mathematical Logic",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 4770": {
+    "title": "Philosophy of Mathematics",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Philosophy",
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities",
+      "CIS_tech_elective"
+    ]
+  },
+  "PHIL 4800": {
+    "title": "Philosophy of Science",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 4840": {
+    "title": "Philosophy of Psychology",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Philosophy",
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_Cognitive_Science_concentration",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 4843": {
+    "title": "Philosophy and Visual Perception",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Philosophy",
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 5840": {
+    "title": "Philosophy of Psychology",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 6720": {
+    "title": "Topics in Logic",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Philosophy",
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 6722": {
+    "title": "Logic and Computability 2",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHIL 6770": {
+    "title": "Philosophy of Mathematics",
+    "units": 1,
+    "Fulfills": [
+      "COGS_Philosophy",
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHYS 2280": {
+    "title": "Physical Models of Biological Systems",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_tech_elective"
+    ]
+  },
+  "PHYS 5585": {
+    "title": "Theoretical and Computational Neuroscience",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC"
+    ]
+  },
+  "PPE 3001": {
+    "title": "Strategic Reasoning",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PPE 3003": {
+    "title": "Behavioral Economics and Psychology",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PPE 3004": {
+    "title": "Choice",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PPE 4803": {
+    "title": "Advanced Seminar in Psychology: Modeling Choice Behavior",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 0001": {
+    "title": "Introduction to Experimental Psychology",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 2220": {
+    "title": "Evolution of Behavior: Animal Behavior",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 2233": {
+    "title": "Neuroethology",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 2240": {
+    "title": "Visual Neuroscience",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 2310": {
+    "title": "Psychology of Language",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 2555": {
+    "title": "Neuroeconomics",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 3220": {
+    "title": "Neural Systems and Behavior",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 3231": {
+    "title": "Consciousness Seminar in Cognitive Neuroscience",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 3271": {
+    "title": "Seminar: Thought without Language",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 3301": {
+    "title": "Neurobiology of Learning and Memory",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 3310": {
+    "title": "Psycholinguistics Seminar",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 3350": {
+    "title": "Quantitative Methods in Cognitive Science: Data Analysis, Modeling, and Visualization",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 3790": {
+    "title": "Neuroeconomics Seminar",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 3803": {
+    "title": "Advanced Seminar in Psychology: Modeling Choice Behavior",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 4230": {
+    "title": "Introduction to functional magnetic resonance imaging (fMRI) research",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 4281": {
+    "title": "Computational Neuroscience Lab",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 4310": {
+    "title": "Research Experience in Cognitive Psychology",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 4340": {
+    "title": "Research Experience in Perception",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSYC 5390": {
+    "title": "Theoretical and Computational Neuroscience",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "STAT 4330": {
+    "title": "Stochastic Processes",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_tech_elective"
+    ]
+  },
+  "STAT 4420": {
+    "title": "Introduction to Bayesian Data Analysis",
+    "units": 1,
+    "Fulfills": [
+      "STAT_minor_electives",
+      "CIS_tech_elective"
+    ]
+  },
+  "VLST 2110": {
+    "title": "Perception",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "VLST 2120": {
+    "title": "Research Experience in Perception",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "VLST 2170": {
+    "title": "Visual Neuroscience",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "VLST 2210": {
+    "title": "Introduction to Philosophy of Mind",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "VLST 2220": {
+    "title": "Philosophy of Perception",
+    "units": 1,
+    "Fulfills": [
+      "COGS_ACGC",
+      "CIS_humanities",
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "PHYS 0150": {
+    "title": "Physics I: Mechanics and Wave Motion",
+    "units": 1,
+    "Fulfills": [
+      "CIS_physics_mechanics"
+    ]
+  },
+  "PHYS 0151": {
+    "title": "Physics II: Electromagnetism and Radiation",
+    "units": 1,
+    "Fulfills": [
+      "CIS_physics_em"
+    ]
+  },
+  "PHYS 0170": {
+    "title": "Honors Physics I: Mechanics and Wave Motion",
+    "units": 1,
+    "Fulfills": [
+      "CIS_physics_mechanics"
+    ]
+  },
+  "PHYS 0171": {
+    "title": "Honors Physics II: Electromagnetism and Radiation",
+    "units": 1,
+    "Fulfills": [
+      "CIS_physics_em"
+    ]
+  },
+  "MEAM 1100": {
+    "title": "Introduction to Mechanical Design",
+    "units": 0.5,
+    "Fulfills": [
+      "CIS_lab"
+    ]
+  },
+  "MEAM 1470": {
+    "title": "Introduction to Mechanics",
+    "units": 0.5,
+    "Fulfills": [
+      "CIS_lab"
+    ]
+  },
+  "PHYS 0500": {
+    "title": "Physics Laboratory",
+    "units": 0.5,
+    "Fulfills": [
+      "CIS_lab"
+    ]
+  },
+  "STAT 1110": {
+    "title": "Introductory Statistics",
+    "units": 1,
+    "Fulfills": [
+      "STAT_minor_core"
+    ]
+  },
+  "STAT 4310": {
+    "title": "Mathematical Statistics",
+    "units": 1,
+    "Fulfills": [
+      "STAT_minor_core",
+      "CIS_tech_elective"
+    ]
+  },
+  "STAT 5200": {
+    "title": "Advanced Statistical Inference",
+    "units": 1,
+    "Fulfills": [
+      "STAT_minor_electives",
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 4000": {
+    "title": "Senior Design Project I",
+    "units": 1,
+    "Fulfills": [
+      "CIS_senior_design"
+    ]
+  },
+  "CIS 4010": {
+    "title": "Senior Design Project II",
+    "units": 1,
+    "Fulfills": [
+      "CIS_senior_design"
+    ]
+  },
+  "CIS 4110": {
+    "title": "Senior Design Project III",
+    "units": 1,
+    "Fulfills": [
+      "CIS_senior_design"
+    ]
+  },
+  "ESE 3010": {
+    "title": "Engineering Probability",
+    "units": 1,
+    "Fulfills": [
+      "CIS_math_probability"
+    ]
+  },
+  "ESE 2100": {
+    "title": "Linear Systems Theory",
+    "units": 1,
+    "Fulfills": [
+      "CIS_math_linear_algebra",
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 1120": {
+    "title": "Electrical Circuits and Systems",
+    "units": 1,
+    "Fulfills": [
+      "CIS_physics_em"
+    ]
+  },
+  "CHEM 1011": {
+    "title": "General Chemistry I",
+    "units": 1,
+    "Fulfills": [
+      "CIS_natural_science"
+    ]
+  },
+  "CHEM 1012": {
+    "title": "General Chemistry II",
+    "units": 1,
+    "Fulfills": [
+      "CIS_natural_science",
+      "CIS_tech_elective"
+    ]
+  },
+  "BIOL 1101": {
+    "title": "Introduction to Biology A",
+    "units": 1,
+    "Fulfills": [
+      "CIS_natural_science",
+      "CIS_tech_elective"
+    ]
+  },
+  "BIOL 1102": {
+    "title": "Introduction to Biology B",
+    "units": 1,
+    "Fulfills": [
+      "CIS_natural_science"
+    ]
+  },
+  "ECON 0100": {
+    "title": "Introduction to Economics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PHIL 0010": {
+    "title": "Introduction to Philosophy",
+    "units": 1,
+    "Fulfills": [
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "HIST 0100": {
+    "title": "Introduction to History",
+    "units": 1,
+    "Fulfills": [
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "ENGL 0100": {
+    "title": "English Composition",
+    "units": 1,
+    "Fulfills": [
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "SOCI 0001": {
+    "title": "Introduction to Sociology",
+    "units": 1,
+    "Fulfills": [
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "PSCI 0001": {
+    "title": "Introduction to Political Science",
+    "units": 1,
+    "Fulfills": [
+      "CIS_ssh",
+      "CIS_social_science"
+    ]
+  },
+  "ANTH 0001": {
+    "title": "Introduction to Anthropology",
+    "units": 1,
+    "Fulfills": [
+      "CIS_ssh",
+      "CIS_humanities"
+    ]
+  },
+  "ACCT 2700": {
+    "title": "Forensic Analytics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ASTR 1211": {
+    "title": "Introduction to Astrophysics I",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ASTR 1250": {
+    "title": "Astronomical Techniques",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "BE 1000": {
+    "title": "Introduction to Bioengineering",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "BE 2000": {
+    "title": "Introduction to Biomechanics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "BE 2200": {
+    "title": "Biomaterials",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "BE 3010": {
+    "title": "Bioengineering Signals and Systems",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "BE 3060": {
+    "title": "Cellular Engineering",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "BE 4700": {
+    "title": "Medical Devices",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "BE 4800": {
+    "title": "Introduction to Biomedical Imaging",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "BE 5210": {
+    "title": "Brain-Computer Interfaces",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "BE 5690": {
+    "title": "Systems Biology of Cell Signaling Behavior",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "BEPP 2500": {
+    "title": "Managerial Economics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "BEPP 2800": {
+    "title": "Applied Data Analysis",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "BIOL 1121": {
+    "title": "Introduction to Biology - The Molecular Biology of Life",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "BIOL 1123": {
+    "title": "Introductory Molecular Biology Laboratory",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "BIOL 2210": {
+    "title": "Molecular Biology and Genetics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "BIOL 2510": {
+    "title": "Statistics for Biologists",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "BIOL 4231": {
+    "title": "Genome Science and Genomic Medicine",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "BIOL 5536": {
+    "title": "Fundamentals of Computational Biology",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "BIOL 5571": {
+    "title": "Topics in Computational Biology",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CBE 1500": {
+    "title": "Introduction to Biotechnology",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CBE 1600": {
+    "title": "Introduction to Chemical Engineering",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CBE 2300": {
+    "title": "Material and Energy Balances of Chemical Processes",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CBE 2310": {
+    "title": "Thermodynamics of Fluids",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CBE 3500": {
+    "title": "Fluid Mechanics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CBE 3600": {
+    "title": "Chemical Process Control",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CBE 3750": {
+    "title": "Engineering and the Environment",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CBE 4790": {
+    "title": "Biotechnology and Biochemical Engineering",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CBE 5450": {
+    "title": "Electrochemical Energy Conversion and Storage",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CHEM 1022": {
+    "title": "General Chemistry II",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CHEM 1101": {
+    "title": "General Chemistry Laboratory I",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CHEM 1102": {
+    "title": "General Chemistry Laboratory II",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CHEM 1151": {
+    "title": "Honors Chemistry I",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CHEM 1161": {
+    "title": "Honors Chemistry II",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CHEM 2210": {
+    "title": "Physical Chemistry I",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CHEM 2220": {
+    "title": "Physical Chemistry II",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CHEM 2410": {
+    "title": "Principles of Organic Chemistry I",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CHEM 2411": {
+    "title": "Principles of Organic Chemistry I with Laboratory",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CHEM 2420": {
+    "title": "Principles of Organic Chemistry II",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CHEM 2421": {
+    "title": "Principles of Organic Chemistry II with Laboratory",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 0099": {
+    "title": "Undergraduate Research/Independent Study",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 1901": {
+    "title": "C++ Programming",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 1902": {
+    "title": "Python Programming",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 1903": {
+    "title": "Go Programming",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 1905": {
+    "title": "Rust Programming",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 1911": {
+    "title": "Using and Understanding Unix and Linux",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 1912": {
+    "title": "DevOps",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 1921": {
+    "title": "Solving Hard Problems in Practice",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 1951": {
+    "title": "iOS Programming",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 1952": {
+    "title": "Android Programming",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 1961": {
+    "title": "Ruby on Rails Web Development",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 1962": {
+    "title": "JavaScript Programming",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 2330": {
+    "title": "Introduction to Blockchain",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 2450": {
+    "title": "Big Data Analytics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 3310": {
+    "title": "Introduction to Networks and Security",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 3500": {
+    "title": "Software Design/Engineering",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 3980": {
+    "title": "Quantum Computer and Information Science",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 3990": {
+    "title": "Special Topics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 4120": {
+    "title": "Introduction to Human Computer Interaction",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 4410": {
+    "title": "Embedded Software for Life-Critical Applications",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 4510": {
+    "title": "Computer and Network Security",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 4521": {
+    "title": "Compilers and Interpreters",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 4550": {
+    "title": "Internet and Web Systems",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 4600": {
+    "title": "Interactive Computer Graphics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 4610": {
+    "title": "Advanced Rendering",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5000": {
+    "title": "Software Foundations",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5020": {
+    "title": "Analysis of Algorithms",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5050": {
+    "title": "Software Systems",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5210": {
+    "title": "Artificial Intelligence",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5220": {
+    "title": "Deep Learning for Data Science",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5490": {
+    "title": "Wireless Communications for Mobile Networks and Internet of Things",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5500": {
+    "title": "Database and Information Systems",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5510": {
+    "title": "Computer and Network Security",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5520": {
+    "title": "Advanced Programming",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5521": {
+    "title": "Compilers and Interpreters",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5530": {
+    "title": "Networked Systems",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5550": {
+    "title": "Internet and Web Systems",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5560": {
+    "title": "Cryptography",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5590": {
+    "title": "Programming and Problem Solving",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5650": {
+    "title": "GPU Programming and Architecture",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5660": {
+    "title": "Procedural Computer Graphics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5800": {
+    "title": "Machine Perception",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5810": {
+    "title": "Computer Vision & Computational Photography",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5990": {
+    "title": "Independent Study for Masters Students",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 6770": {
+    "title": "Advanced Topics in Algorithms and Complexity",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 7000": {
+    "title": "Special Topics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 7980": {
+    "title": "Explaining Explanation",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "COMM 4590": {
+    "title": "Social Networks and the Spread of Behavior",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "DSGN 2570": {
+    "title": "User Experience (UX) and User Interface (UI) Design",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "EAS 2970": {
+    "title": "Study Abroad",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "EAS 3010": {
+    "title": "Climate Policy and Technology",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "EAS 4030": {
+    "title": "Energy Systems and Policy",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "EAS 5070": {
+    "title": "Intellectual Property and Business Law for Engineers",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "EAS 5120": {
+    "title": "Engineering Negotiation",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "EAS 5450": {
+    "title": "Engineering Entrepreneurship I",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "EAS 5460": {
+    "title": "Engineering Entrepreneurship II",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "EAS 5490": {
+    "title": "Engineering Entrepreneurship Lab",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ECON 0200": {
+    "title": "Introductory Economics: Macro",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ECON 0420": {
+    "title": "Political Economy",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ECON 0630": {
+    "title": "The Economics and Financing of Health Care Delivery",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ECON 2100": {
+    "title": "Intermediate Microeconomics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ECON 2200": {
+    "title": "Intermediate Macroeconomics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ECON 2300": {
+    "title": "Statistics for Economists",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ECON 2310": {
+    "title": "Econometric Methods and Models",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ECON 4130": {
+    "title": "Market Design",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ECON 4210": {
+    "title": "Numerical Methods for Macroeconomists",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ECON 4230": {
+    "title": "Macro-Modeling",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ECON 4240": {
+    "title": "Money and Banking",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ECON 4430": {
+    "title": "Labor Economics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ECON 4450": {
+    "title": "Industrial Organization",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ECON 4460": {
+    "title": "Health Economics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ECON 4510": {
+    "title": "International Trade",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "EESC 4630": {
+    "title": "Hydrology",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ENGR 1010": {
+    "title": "Introduction to Engineering: Energy, Environment and Sustainability",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ENGR 1050": {
+    "title": "Introduction to Scientific Computing",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ENGR 1400": {
+    "title": "Penn Global Seminar: Robotics and Rehabilitation",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ENGR 2120": {
+    "title": "Concepts in Micro- and Nanotechnology",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ENGR 2500": {
+    "title": "Energy Systems, Resources and Technology",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ENGR 2900": {
+    "title": "PGS: Artificial Intelligence and Robotics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ENGR 2990": {
+    "title": "Eng Rsch-Prep/App/Meth",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ENGR 3440": {
+    "title": "Answering Questions with Data, for Everyone",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ENGR 4500": {
+    "title": "Biotechnology, Immunology, Vaccines and COVID-19",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ENGR 5030": {
+    "title": "Engineering in Oil, Gas and Coal, from Production to End Use",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ENM 3440": {
+    "title": "Answering Questions with Data, for Everyone",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ENM 3750": {
+    "title": "Biological Data Science I - Fundamentals of Biostatistics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 1110": {
+    "title": "Atoms, Bits, Circuits and Systems",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 1500": {
+    "title": "Digital Audio Basics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 1900": {
+    "title": "Silicon Garage: Introduction to Open Source Hardware and Software Platforms",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 2000": {
+    "title": "Artificial Intelligence Lab: Data, Systems, and Decisions",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 2040": {
+    "title": "Decision Models",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 2150": {
+    "title": "Electrical Circuits and Systems",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 2180": {
+    "title": "Electronic, Photonic, and Electromechanical Devices",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 2240": {
+    "title": "Signal and Information Processing",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 2900": {
+    "title": "Introduction to Electrical and Systems Engineering Research Methodology",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 2910": {
+    "title": "Introduction to Electrical and Systems Engineering Research and Design",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 2920": {
+    "title": "Introduction to Electromechanical Prototyping",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 3030": {
+    "title": "Stochastic Systems Analysis and Simulation",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 3050": {
+    "title": "Foundations of Data Science",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 3060": {
+    "title": "Deep Learning: A Hands-on Introduction",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 3100": {
+    "title": "Electric and Magnetic Fields I",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 3190": {
+    "title": "Fundamentals of Solid-State Circuits",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 3250": {
+    "title": "Fourier Analysis and Applications in Engineering, Mathematics, and the Sciences",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 3500": {
+    "title": "Embedded Systems/Microcontroller Laboratory",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 3600": {
+    "title": "Machine Learning on Embedded Edge Devices",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 3700": {
+    "title": "Circuit-Level Modeling, Design, and Optimization for Digital Systems",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 4000": {
+    "title": "Engineering Economics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 4020": {
+    "title": "Statistics for Data Science",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 4070": {
+    "title": "Introduction to Networks and Protocols",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 4210": {
+    "title": "Control For Autonomous Robots",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 4440": {
+    "title": "Project Management",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 5040": {
+    "title": "Intro to Linear, Nonlinear and Integer Optimization",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 5090": {
+    "title": "Quantum Circuits and Systems",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 5140": {
+    "title": "Graph Neural Networks",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 5300": {
+    "title": "Elements of Probability Theory",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 5390": {
+    "title": "Hardware/Software Co-Design for Machine Learning",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 5430": {
+    "title": "Human Systems Engineering",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 5440": {
+    "title": "Project Management",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 6050": {
+    "title": "Modern Convex Optimization",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 6500": {
+    "title": "Learning in Robotics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 6740": {
+    "title": "Information Theory",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 6800": {
+    "title": "Special Topics in Electrical and Systems Engineering",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 1010": {
+    "title": "Monetary Economics and the Global Economy",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 2030": {
+    "title": "Advanced Corporate Finance",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 2050": {
+    "title": "Investment Management",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 2070": {
+    "title": "Valuation",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 2090": {
+    "title": "Real Estate Investment: Analysis and Financing",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 2170": {
+    "title": "Financial Derivatives",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 2190": {
+    "title": "International Financial Markets and Cryptocurrencies",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 2250": {
+    "title": "Fixed Income Securities",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 2300": {
+    "title": "Urban Fiscal Policy",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 2370": {
+    "title": "Data Science for Finance",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 2380": {
+    "title": "Capital Markets",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 2500": {
+    "title": "Venture Capital and the Finance of Innovation",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 2510": {
+    "title": "The Finance of Buyouts and Acquisitions",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 2530": {
+    "title": "Distressed Investing and Value Creation",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 3990": {
+    "title": "Supervised Study in Finance",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 4010": {
+    "title": "Advanced Topics in Private Equity",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 7170": {
+    "title": "Financial Derivatives",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 7370": {
+    "title": "Data Science for Finance",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 9110": {
+    "title": "Financial Economics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "GCB 5360": {
+    "title": "Fundamentals of Computational Biology",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "HCMG 8570": {
+    "title": "Healthcare Data and Analytics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "IPD 5110": {
+    "title": "How to Make Things: Production Prototyping Studio",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "IPD 5150": {
+    "title": "Product Design",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "LAW 5770": {
+    "title": "Internet Law",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 2020": {
+    "title": "Proving Things: Analysis",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 2030": {
+    "title": "Proving things: Algebra",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 2410": {
+    "title": "Calculus, Part IV",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 3120": {
+    "title": "Linear Algebra",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 3130": {
+    "title": "Computational Linear Algebra",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 3140": {
+    "title": "Advanced Linear Algebra",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 3200": {
+    "title": "Computer Methods in Mathematical Science I",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 3400": {
+    "title": "Discrete Mathematics I",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 3410": {
+    "title": "Discrete Mathematics II",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 3500": {
+    "title": "Number Theory",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 3600": {
+    "title": "Advanced Calculus",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 3610": {
+    "title": "Advanced Calculus",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 3700": {
+    "title": "Algebra",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 3710": {
+    "title": "Algebra",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 4100": {
+    "title": "Complex Analysis",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 4200": {
+    "title": "Ordinary Differential Equations",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 4250": {
+    "title": "Partial Differential Equations",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 4600": {
+    "title": "Topology",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 4650": {
+    "title": "Differential Geometry",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 5020": {
+    "title": "Abstract Algebra",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 5030": {
+    "title": "Abstract Algebra",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 5080": {
+    "title": "Advanced Analysis",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 5090": {
+    "title": "Advanced Analysis",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 5300": {
+    "title": "Mathematics of Finance",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 5460": {
+    "title": "Advanced Applied Probability",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MATH 6020": {
+    "title": "Algebra",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MEAM 1010": {
+    "title": "Introduction to Mechanical Design",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MEAM 2010": {
+    "title": "Machine Design and Manufacturing",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MEAM 2020": {
+    "title": "Introduction to Thermal-Fluids Engineering",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MEAM 2030": {
+    "title": "Thermodynamics I",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MEAM 2100": {
+    "title": "Statics and Strength of Materials",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MEAM 2110": {
+    "title": "Engineering Mechanics: Dynamics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MEAM 2470": {
+    "title": "Mechanical Engineering Laboratory I",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MEAM 2480": {
+    "title": "Mechanical Engineering Lab I",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MEAM 3020": {
+    "title": "Fluid Mechanics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MEAM 3210": {
+    "title": "Dynamic Systems and Control",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MEAM 3330": {
+    "title": "Heat and Mass Transfer",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MEAM 3470": {
+    "title": "Mechanical Engineering Design Laboratory",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MEAM 3540": {
+    "title": "Mechanics of Solids",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MEAM 5100": {
+    "title": "Design of Mechatronic Systems",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MEAM 5200": {
+    "title": "Introduction to Robotics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MKTG 2120": {
+    "title": "Data and Analysis for Marketing Decisions",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MKTG 2710": {
+    "title": "Models for Marketing Strategy",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MKTG 3520": {
+    "title": "Special Topics - Marketing Analytics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MKTG 4760": {
+    "title": "Applied Probability Models in Marketing",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MKTG 7120": {
+    "title": "Data and Analysis for Marketing Decisions",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MSE 2200": {
+    "title": "Introduction to Materials Science and Engineering",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MSE 2600": {
+    "title": "Energetics of Macro and Nano-scale Materials",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MSE 3300": {
+    "title": "Self-Assembly of Soft Materials",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MSE 3600": {
+    "title": "Structure at the Nanoscale",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MSE 3930": {
+    "title": "Materials Selection",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MSE 5150": {
+    "title": "Mathematical Methods for Engineering Applications",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MUSC 1250": {
+    "title": "Musical Interfaces and Robotics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "NETS 1500": {
+    "title": "Market and Social Systems on the Internet",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "NETS 2130": {
+    "title": "Crowdsourcing and Human Computation",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "OIDD 2200": {
+    "title": "Operations Management Analytics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "OIDD 2240": {
+    "title": "Analytics for Service Operations",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "OIDD 2450": {
+    "title": "Analytics and the Digital Economy",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "OIDD 2990": {
+    "title": "Judgment & Decision Making Research Immersion",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "OIDD 3190": {
+    "title": "Advanced Decision Systems: Evolutionary Computation",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "OIDD 3210": {
+    "title": "Introduction to Management Science",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "OIDD 3530": {
+    "title": "Mathematical Modeling and its Application in Finance",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "OIDD 4690": {
+    "title": "Information Strategy and Economics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "OIDD 4810": {
+    "title": "Convex Optimization for Statistics and Data Science",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "OIDD 5250": {
+    "title": "Thinking with Models: Business Analytics for Energy and Sustainability",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "OIDD 6130": {
+    "title": "Online Business Models and the Information-Based Firm",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "OIDD 6530": {
+    "title": "Mathematical Modeling and its Application in Finance",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "OIDD 6700": {
+    "title": "Special topics in Information Systems: Simulation and Dynamic Competitive Strat",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "OIDD 9040": {
+    "title": "Experimental Economics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "OIDD 9100": {
+    "title": "Intro to Linear, Nonlinear and Integer Optimization",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "OIDD 9150": {
+    "title": "Advanced Graph Theory",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "OIDD 9340": {
+    "title": "Dynamic Programming and Stochastic Models",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "OIDD 9500": {
+    "title": "Perspectives on Information Systems",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "PHIL 4721": {
+    "title": "Logic and Computability 1",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "PHYS 1230": {
+    "title": "Principles of Physics III: Thermal Physics and Waves",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "PHYS 1250": {
+    "title": "Principles of Physics IV: Modern Physics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "PHYS 2260": {
+    "title": "Introduction to Computational Physics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "PHYS 3351": {
+    "title": "Analytical Mechanics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "PHYS 3361": {
+    "title": "Electromagnetism I: Electricity and Potential Theory",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "PHYS 3362": {
+    "title": "Electromagnetism II: Magnetism, Maxwell's Equations, and Electromagnetic Waves",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "PHYS 3364": {
+    "title": "Laboratory Electronics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "PHYS 4401": {
+    "title": "Thermodynamics and the Introduction to Statistical Mechanics and Kinetic Theory",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "PHYS 4411": {
+    "title": "Introduction to Quantum Mechanics I",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "PSCI 3800": {
+    "title": "Applied Data Science",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "PSCI 5800": {
+    "title": "Game Theory",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "STAT 4320": {
+    "title": "Mathematical Statistics",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "STAT 4350": {
+    "title": "Forecasting Methods for Management",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "STAT 4700": {
+    "title": "Data Analytics and Statistical Computing",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "STAT 4740": {
+    "title": "Modern Regression for the Social, Behavioral and Biological Sciences",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "STAT 4750": {
+    "title": "Sample Survey Design",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "STAT 4760": {
+    "title": "Applied Probability Models in Marketing",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "STAT 4810": {
+    "title": "Convex Optimization for Statistics and Data Science",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "STAT 5330": {
+    "title": "Stochastic Processes",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "STAT 5350": {
+    "title": "Forecasting Methods for Management",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "STAT 5710": {
+    "title": "Modern Data Mining",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "STAT 9270": {
+    "title": "Bayesian Statistical Theory and Methods",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "VIPR 3999": {
+    "title": "Independent Study",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 4380": {
+    "title": "Machine Learning for Time-Series Data",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MSE 4050": {
+    "title": "Mechanical Properties of Macro/Nanoscale Materials",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "OIDD 9300": {
+    "title": "Stochastic Models",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "STAT 4830": {
+    "title": "Numerical Optimization for Data Science and Machine Learning",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 5160": {
+    "title": "IoT Edge Computing",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 3040": {
+    "title": "Introduction to Optimization",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "NSCI 3010": {
+    "title": "Engineering",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CIS 5190": {
+    "title": "Applied Machine Learning",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CBE 5000": {
+    "title": "Special Topics in Chemical and Biomolecular Engineering",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MPHY 6120": {
+    "title": "Artificial Intelligence for Medicine",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "MEAM 2300": {
+    "title": "Bicycles: The Mechanical Advantage",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "EAS 5470": {
+    "title": "Engineering Product Management from Theory to Practice",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "ESE 6450": {
+    "title": "Deep Generative Models",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "PHYS 3359": {
+    "title": "Data Analysis for the Natural Sciences II: Machine Learning",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 2310": {
+    "title": "Global Valuation and Risk Analysis",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "CBE 5215": {
+    "title": "Energy and Sustainability: Science, Engineering and Technology",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "PHIL 4724": {
+    "title": "Logic: From Godel to Godel",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "BE 2700": {
+    "title": "Bioengineering Laboratory Principles",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  },
+  "FNCE 1018": {
+    "title": "Monetary Economics and the Global Economy (Honors)",
+    "units": 1,
+    "Fulfills": [
+      "CIS_tech_elective"
+    ]
+  }
+}

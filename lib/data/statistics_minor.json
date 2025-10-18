@@ -1,0 +1,64 @@
+{
+  "minors": {
+    "Statistics and Data Science": {
+      "note": "For students outside of Wharton. Wharton students should pursue a concentration instead.",
+      "required_courses": [
+        {
+          "options": [
+            "MATH 1410",
+            "MATH 1080",
+            "MATH 1610"
+          ],
+          "title": "Calculus, Part II / Mathematics of Change, Part II / Honors Calculus",
+          "count": 1
+        },
+        {
+          "options": [
+            "STAT 1020",
+            "STAT 1028",
+            "STAT 1120",
+            "STAT 4310",
+            "ESE 4020",
+            "ECON 2310"
+          ],
+          "title": "Introductory Statistics or equivalent",
+          "count": 1
+        },
+        {
+          "options": [
+            "STAT 4300",
+            "ESE 3010"
+          ],
+          "title": "Probability or Engineering Probability",
+          "count": 1
+        }
+      ],
+      "electives": {
+        "required_cus": 4,
+        "course_list": [
+          "STAT 4050",
+          "STAT 4100",
+          "STAT 4220",
+          "STAT 4230",
+          "STAT 4240",
+          "STAT 4320",
+          "STAT 4330",
+          "STAT 4350",
+          "STAT 4420",
+          "STAT 4700",
+          "STAT 4710",
+          "STAT 4730",
+          "STAT 4750",
+          "STAT 4760",
+          "STAT 4770",
+          "STAT 4800",
+          "STAT 4810",
+          "STAT 4830",
+          "STAT 5200",
+          "STAT 5210"
+        ]
+      },
+      "total_course_units": 7
+    }
+  }
+}
